@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CubeProcessing", "CubeProcessing\CubeProcessing.dtproj", "{E4E9C7A0-B812-4FCE-8800-D43B24385380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+		Production|Default = Production|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E9C7A0-B812-4FCE-8800-D43B24385380}.Development|Default.ActiveCfg = Development
+		{E4E9C7A0-B812-4FCE-8800-D43B24385380}.Development|Default.Build.0 = Development
+		{E4E9C7A0-B812-4FCE-8800-D43B24385380}.Production|Default.ActiveCfg = Development
+		{E4E9C7A0-B812-4FCE-8800-D43B24385380}.Production|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
